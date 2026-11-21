@@ -10,8 +10,8 @@ I work where **interaction design** meets **engineering**: I research and design
 - Backend with Django and PostgreSQL
 
 ### 🧰 Stack
-**Design:** Figma · user research · wireframing · prototyping
-**Code:** Kotlin · Python · Django · PostgreSQL · HTML/CSS/JavaScript · C/C++ · Git
+- **Design:** Figma · user research · wireframing · prototyping
+- **Code:** Kotlin · Python · Django · PostgreSQL · HTML/CSS/JavaScript · C/C++ · Git
 
 ### 📌 Selected work
 - **PointMate** — native Android app, designed and built solo in Kotlin *(repo coming soon)*
