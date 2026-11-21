@@ -15,3 +15,6 @@ I'm interested in **how people interact with technology**, and especially with A
 
 ### 🌍 Languages
 Azerbaijani · Turkish · English · Korean · Russian
+
+### 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/kanan-gabilov-84742b2b3) · [Behance](https://www.behance.net/kanangabilov) · [Instagram](https://www.instagram.com/gabilovkanan)
