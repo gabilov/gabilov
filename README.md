@@ -11,7 +11,7 @@ I'm interested in **how people interact with technology**, and especially with A
 
 ### 🧰 Tools
 - **Design:** Figma · user research · wireframing · prototyping
-- **Code:** Python · HTML/CSS/JavaScript · Kotlin · Django · Git
+- **Code:** Python · C++ · C · HTML/CSS/JavaScript · Kotlin · Django · Git
 
 ### 🌍 Languages
 Azerbaijani · Turkish · English · Korean · Russian
