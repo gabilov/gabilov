@@ -17,4 +17,5 @@ I'm interested in **how people interact with technology**, and especially with A
 Azerbaijani · Turkish · English · Korean · Russian
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/kanan-gabilov-84742b2b3) · [Behance](https://www.behance.net/kanangabilov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanan%20Gabilov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-gabilov-84742b2b3)
+[![Behance](https://img.shields.io/badge/Behance-Kanan%20Gabilov-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kanangabilov)
